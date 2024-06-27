@@ -1,3 +1,4 @@
+//this code has been wroten when i did not know how to use arrays 1. haftada yani eğer gelişmiş istiyorsan 2.haftadaki kodlara git
 // BIGGGGGEEEEESSSSTT CODE I HAVE EVER WROTE TILL NOW
 #include <stdio.h>
 #include <cs50.h>
