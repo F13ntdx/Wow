@@ -1,5 +1,9 @@
 1Usıng a function inside a function
  but do it by passing it in as a varible
+ ex:void funca(int v);
+		int funcb();
+ (funca(funcb());
 
 2A better version of bests0 has to be made
- where it asks you if you want to add a phone number
+ where it asks you if you want to add a phone number 
+ 
